@@ -11,5 +11,16 @@ function add(num1, num2=0){
 
 // const sum=add(5,10); //5 10 15
 
-const sum= add(5);
-const summ=add();
+
+//defult object  for person
+
+function person(humam={}){}
+
+
+//defult array for friend
+
+function friends(friend=[]){
+}
+
+
+
