@@ -23,7 +23,7 @@ const email= `Hello Sir
         5. DOM
         6. ES6
         7. DAISY UI
-        8. Flutter
+        8. FLUTTER
         9. DART
         10. GIT AND GITHUB
 
